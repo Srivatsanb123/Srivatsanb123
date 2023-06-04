@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Srivatsanb123
+- 👋 Hi, I’m Srivatsan
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Web development.
 
