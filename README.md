@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Srivatsan
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Web development.
-- Check out my Portfolio: Srivatsanb123.github.io/Portfolio
+- Check out my Portfolio: https://srivatsanb123.github.io/Portfolio/
 
 <!---
 Srivatsanb123/Srivatsanb123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
