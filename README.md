@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivatsanb123&label=Profile%20views&color=0e75b6&style=flat" alt="srivatsanb123" /> </p>
 
-- 🔭 I’m currently working on [CodeRunner](http://srivatchu.pythonanywhere.com/)
+- 🔭 I’m currently working on [CODSOFT](https://github.com/Srivatsanb123/CODSOFT)
 
 - 🌱 I’m currently learning **Java.**
 
