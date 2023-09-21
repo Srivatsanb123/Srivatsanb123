@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srivatsanb123&label=Profile%20views&color=0e75b6&style=flat" alt="srivatsanb123" /> </p>
 
-- 🔭 I’m currently working on [CODSOFT](https://github.com/Srivatsanb123/CODSOFT)
+- 🔭 I’m currently studying in [Chennai Institute Of technology](https://www.citchennai.edu.in/)
 
-- 🌱 I’m currently learning **Java.**
+- 🌱 I’m currently learning **Machine learning.**
 
 - 👨‍💻 All of my projects are available at [https://srivatsanb123.github.io/Portfolio/](https://srivatsanb123.github.io/Portfolio/)
 
-- 💬 Ask me about **Flask, Node.js, SQL, NOSQL**
+- 💬 Ask me about **Python, C++, Javascript, SQL, NOSQL**
 
 - 📫 How to reach me **srivatsanb123@gmail.com**
 
