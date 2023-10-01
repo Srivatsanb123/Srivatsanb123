@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **srivatsanb123@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1jIq5TnNlBFZe69W3gNSy-K0rTNWmYZQpHo4TcXu70lU/edit?usp=sharing](https://docs.google.com/document/d/1jIq5TnNlBFZe69W3gNSy-K0rTNWmYZQpHo4TcXu70lU/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](http://bit.ly/Resume-Docs)
 
 - ⚡ Fun fact **I am a midnight programmer who turns bugs into features under the stars.**
 
