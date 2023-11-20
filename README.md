@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying in [Chennai Institute Of technology](https://www.citchennai.edu.in/)
 
-- 🌱 I’m currently learning **Machine learning.**
+- 🌱 I’m currently learning **App Development.**
 
 - 👨‍💻 All of my projects are available at [https://srivatsanb123.github.io/Portfolio/](https://srivatsanb123.github.io/Portfolio/)
 
