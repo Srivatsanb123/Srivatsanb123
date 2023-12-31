@@ -1,3 +1,9 @@
+<style>
+  body {
+    background-color: #2e2e2e; /* Use a color that provides good contrast with both light and dark themes */
+    color: #ffffff; /* Set text color to white or a color that contrasts well with the background */
+  }
+</style>
 <h1 align="center">Hi 👋, I'm Srivatsan.B</h1>
 <h3 align="center">A passionate self learner and a competitive programmer.</h3>
 
