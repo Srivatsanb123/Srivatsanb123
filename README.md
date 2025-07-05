@@ -7,10 +7,6 @@
 
 - 🔭 I’m currently studying in [Chennai Institute Of technology](https://www.citchennai.edu.in/)
 
-- 🌱 I’m currently learning **Android Development**
-
-- 💬 Ask me about **Python, C++ and Javascript**
-
 - 📫 How to reach me **srivatsanb123@gmail.com**
 
 - 📄 Know about my experiences [https://bit.ly/srivatsancv](https://bit.ly/srivatsancv)
